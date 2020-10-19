@@ -1,6 +1,6 @@
 # KanbanDB App
-
-![Kanban Mockup](public/kanban-example@2x.png)
+My overall perspective & findings based on the KanbanDB Template challenge:
+1. (public/Command Changes.jpg)
 
 
 
